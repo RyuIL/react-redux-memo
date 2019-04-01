@@ -22,8 +22,8 @@ const Wrapper = styled.div`
     /* 폰트 */
     font-size: 2.5rem;
 
-    font-family : 'Baloo', cursive
-`;
+    font-family : 'Baloo', cursive ;
+    `;
 
 const Header = () => (
     <Wrapper>
